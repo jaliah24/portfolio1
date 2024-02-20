@@ -97,13 +97,11 @@ display: grid;
 .hello {
   color: plum;
   font-size: 45px;
-  float: left;
-  margin-top: 5px;
+ margin-top: 1px;
 }
 
 .paragraph {
   color: plum;
   font-size: 28px;
-  float: left;
   margin-top: -2px;
 }
