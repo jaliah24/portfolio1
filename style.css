@@ -10,7 +10,9 @@ display: grid;
     "header header header header header header"
     "menu main main main main main"
     "menu footer footer footer footer footer";
-}
+  gap: 10px;
+  padding: 10px;
+  margin: 0 auto;}
 
 .typerwriter {
   display: inline-block;
@@ -28,3 +30,12 @@ display: grid;
   font-family: "Lucida Console", "Courier New", monospace;
   animation-iteration-count: infinite;
 }  
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
