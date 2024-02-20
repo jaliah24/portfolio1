@@ -39,3 +39,11 @@ display: grid;
     width: 100%;
   }
 }
+
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-areas: "header" "main" "menu" "footer";
+    padding: 0 10px 0 10px;
+    width: 100%;
+  }
+}
