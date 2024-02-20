@@ -94,14 +94,12 @@ display: grid;
   background-color: transparent;
 }
 
-.hello{
+.hello {
   color: plum;
-  margin-left: 10%;
   font-size: 45px;
 }
 
-.paragraph{
+.paragraph {
   color: plum;
-  margin-left: 10%;
   font-size: 28px;
 }
