@@ -98,12 +98,12 @@ display: grid;
   color: plum;
   font-size: 45px;
   float: right;
-  margin: 10px;
+  margin-top: 10px;
 }
 
 .paragraph {
   color: plum;
   font-size: 28px;
   float: right;
-  margin: 5px;
+  margin-top: 5px;
 }
