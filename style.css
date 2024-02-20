@@ -48,19 +48,19 @@ display: grid;
   }
 }
 
-.navbar {
+.header {
   overflow: hidden;
   background-color: transparent;
   padding: 0 10px;
   font-family: didot, sans-serif;
 }
 
-.navbar a.logo {
+.header a.logo {
   font-size: 15px;
   font-weight: bold;
 }
 
-.navbar a {
+.header a {
   float: left;
   color: white;
   text-align: center;
@@ -72,16 +72,16 @@ display: grid;
   top: -65px;
 }
 
-.navbar a:hover {
+.header a:hover {
   background-color: ;
   color: plum;
 }
 
-.navbar a.active {
+.header a.active {
   color: white;
 }
 
-.navbar-right {
+.header-right {
   float: right;
   background-color: transparent;
 }
