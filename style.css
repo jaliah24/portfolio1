@@ -93,3 +93,15 @@ display: grid;
   float: left;
   background-color: transparent;
 }
+
+.hello{
+  color: plum;
+  margin-left: 10%;
+  font-size: 45px;
+}
+
+.paragraph{
+  color: plum;
+  margin-left: 10%;
+  font-size: 28px;
+}
