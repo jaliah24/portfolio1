@@ -83,6 +83,6 @@ display: grid;
 }
 
 .header-right {
-  float: right;
+  float: left;
   background-color: transparent;
 }
