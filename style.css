@@ -10,4 +10,21 @@ display: grid;
     "header header header header header header"
     "menu main main main main main"
     "menu footer footer footer footer footer";
-  
+}
+
+.typerwriter {
+  display: inline-block;
+}
+
+.typed-out {
+  overflow: hidden;
+  border-right: 0.15em solid black;
+  white-space: nowrap;
+  animation: typing 9s steps(50, end) forwards;
+  width: 0;
+  color: plum;
+  font-size: 40px;
+  padding: 10px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  animation-iteration-count: infinite;
+}  
