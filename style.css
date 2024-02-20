@@ -61,8 +61,7 @@ display: grid;
 }
 
 .header a {
-  float: left;
-  color: plum;
+  color: white;
   text-align: center;
   padding: 12px;
   text-decoration: none;
