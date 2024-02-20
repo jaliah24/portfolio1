@@ -97,9 +97,11 @@ display: grid;
 .hello {
   color: plum;
   font-size: 45px;
+  margin-top: -5px;
 }
 
 .paragraph {
   color: plum;
   font-size: 28px;
+  margin-top: -1px;
 }
