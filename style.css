@@ -102,8 +102,9 @@ main {
 .hello {
   color: plum;
   font-size: 45px;
-  margin-bottom: 50%;
+  margin-bottom: 150%;
   float: left;
+  margin-left: -30px;
 }
 
 
