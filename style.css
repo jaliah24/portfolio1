@@ -97,7 +97,7 @@ display: grid;
 .hello {
   color: plum;
   font-size: 45px;
-  bottom: 500px;
+top: -500px;
 }
 
 
