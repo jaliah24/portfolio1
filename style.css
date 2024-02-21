@@ -15,7 +15,7 @@ display: grid;
   margin: 0 auto;}
 
 .grid-container > * {
-  text-align: center;
+  text-align: right;
   padding: 5px 10px;
   width: 100%;
 }
