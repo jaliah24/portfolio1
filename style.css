@@ -22,11 +22,6 @@ display: grid;
 
 main {
   grid-area: main;
-  margin-top: -10px;
-}
-
-main {
-  grid-area: main;
   margin-top: 20px;
 }
 
