@@ -74,11 +74,6 @@ main {
  
 }
 
-.header a.logo {
-  font-size: 15px;
-  font-weight: bold;
-}
-
 .header a {
   float: left;
   color: white;
@@ -88,8 +83,12 @@ main {
   font-size: 18px;
   line-height: 20px;
   position: relative;
-  margin-top: -65px;
-  
+  top: -65px;
+}
+
+.header a.logo {
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .header a:hover {
@@ -102,7 +101,7 @@ main {
 }
 
 .header-right {
-  float: left;
+  float: right;
   background-color: transparent;
 }
 
@@ -113,9 +112,7 @@ main {
     text-align: left;
   }
 
-.hello {
-  color: plum;
-  font-size: 45px; 
+  .header-right {
+    float: none;
+  }
 }
-
-
