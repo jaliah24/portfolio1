@@ -75,7 +75,7 @@ main {
 }
 
 .header a {
-  float: right;
+  float: left;
   color: white;
   text-align: center;
   padding: 12px;
@@ -97,7 +97,7 @@ main {
 }
 
 .header-right {
-  float: right;
+  float: left;
   background-color: transparent;
 }
 
