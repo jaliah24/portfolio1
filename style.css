@@ -27,7 +27,7 @@ main {
 
 aside {
   grid-area: menu;
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .typerwriter {
