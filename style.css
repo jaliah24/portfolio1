@@ -25,6 +25,11 @@ main {
   margin-top: 20px;
 }
 
+aside {
+  grid-area: menu;
+  margin-top: 20px;
+}
+
 .typerwriter {
   display: inline-block;
 }
