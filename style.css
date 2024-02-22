@@ -42,6 +42,12 @@ main {
   animation-iteration-count: infinite;
 }  
 
+
+header {
+  grid-area: header;
+  margin-top: -10px;
+ 
+}
 @keyframes typing {
   from {
     width: 0;
