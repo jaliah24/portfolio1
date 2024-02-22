@@ -101,6 +101,19 @@ main {
   background-color: transparent;
 }
 
+@media screen and (max-width: 90px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .header-right {
+    float: none;
+  }
+}
+
+
 .hello {
   color: plum;
   font-size: 45px; 
