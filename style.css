@@ -45,7 +45,7 @@ main {
 
 header {
   grid-area: header;
-  margin-top: -10px;
+  margin-top: 20px;
  
 }
 @keyframes typing {
@@ -108,7 +108,7 @@ header {
 .hello {
   color: plum;
   font-size: 45px;
-  margin-bottom: -100px;
+  
 }
 
 
