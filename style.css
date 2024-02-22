@@ -120,3 +120,10 @@ footer {
     float: none;
   }
 }
+
+.hello{
+  color: plum;
+  margin-left: 10%;
+  font-size: 45px;
+  margin-top: -7%;
+}
